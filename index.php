@@ -19,6 +19,7 @@ if (isset($_POST["calculate"])) {
 
 <body>
     <h1>NCTU GPA Calculator</h1>
+    <h2>Website to calculate GPA for NCTU student<h2>
     <div class="boxed-main">
         <p style="text-align: center;">----------- INTRODUCTION ------------</p>
         1. This website doesn't store any data that you input<br>
